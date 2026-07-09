@@ -1,0 +1,17 @@
+# Frontend
+node_modules/
+dist/
+
+# Backend
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Secrets
+.env
+
+# Logs
+*.log
